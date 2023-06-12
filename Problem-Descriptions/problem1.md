@@ -44,10 +44,6 @@ Contributions are welcome! If you find any issues or want to enhance the program
 
 When contributing, please follow the existing code style and provide clear commit messages.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or suggestions regarding this program, please feel free to contact me at [messam.sde@gmail.com](mailto:messam.sde@gmail.com).
